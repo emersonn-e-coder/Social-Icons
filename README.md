@@ -3,5 +3,6 @@
 ### Clique nos links abaixo ###
 * [Conheça mais em meu GitHub Pages](https://emersonn-e-coder.github.io/)
 * [Clique aqui](https://emersonn-e-coder.github.io/Social-icons/) 
-![](https://github.com/emersonn-e-coder/Social-icons/blob/master/paper1.png)
+
+![](https://github.com/emersonn-e-coder/Social-icons/blob/master/social.png)
  
