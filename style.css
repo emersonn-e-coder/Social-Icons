@@ -117,7 +117,7 @@ p {
       background-image: url('wallcod.jpeg');
       background-size: cover;
       background-attachment: fixed;
-      overflow: hidden;
+      overflow: auto;
     }
     
 h1 {
