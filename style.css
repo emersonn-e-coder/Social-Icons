@@ -263,7 +263,7 @@ div.dois {
   }
 .middle {
     position: absolute;
-    top: 47%;
+    top: 50%;
     transform: translateY(-40%);
     width: 80%;
     text-align: center;
